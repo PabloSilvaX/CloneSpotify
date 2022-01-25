@@ -1,9 +1,9 @@
 # Clone Spotify Web Player
-Este site não tem qualquer pretenção em obter renda ou entregar os serviços ofertados pela empresa Spotify, é apenas uma cópia visual do Spotify Web Player veja o site original aqui: [https://open.spotify.com/](https://open.spotify.com/).
+Este site não tem qualquer pretenção em obter renda ou entregar os serviços ofertados pela empresa Spotify, é apenas uma cópia visual do Spotify Web Player feita em HTML,CSS e JavaScript. Veja o site original aqui: [https://open.spotify.com/](https://open.spotify.com/).
 
 ---
 ### Detalhes do Projeto:
-O site se trata de uma cópia do Spotify Web Player, onde em sua home pode ser visto listas de playlists/albuns e possui um menu lateral e um superior, além de possuir um informativo na área inferior do site convidando a uma "inscrição gratuita".
+O Site se trata de um clone do Spotify Web Player de 01/2022, onde em sua home pode ser visto listas de playlists/albuns e também possui um menu lateral e um superior para ações e navegação do usuário (por ser um clone visual os links não levam a lugar nenhum), além de possuir um informativo na área inferior do site convidando a uma "inscrição gratuita".
 
 Tecnologias Usadas:
 * HTML
@@ -11,7 +11,7 @@ Tecnologias Usadas:
 * JAVASCRIPT
 
 ## Link para o  Site Hospedado:
-Site Hospedado: [CloneSpotify](https://clonespotify.pabrito.repl.co/)
+Site Hospedado: [Clone Spotify Web Player](https://clonespotify.pabrito.repl.co/)
 
 ## Gif do Site:
 
